@@ -1,0 +1,8 @@
+.hero_btn:hover {
+  border: 1.8px solid transparent;
+  background: linear-gradient(to right, white, white),
+    linear-gradient(to right, theme('colors.pink'), theme('colors.purple'));
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  color: transparent;
+}

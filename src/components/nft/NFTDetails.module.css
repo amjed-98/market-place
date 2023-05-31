@@ -1,0 +1,17 @@
+.buy_button {
+  border: 1.8px solid transparent;
+}
+
+.buy_button:hover {
+  border: 1.8px solid transparent;
+  background: linear-gradient(to right, white, white), linear-gradient(to right, #eb2873, #f58f00);
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  color: transparent;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}

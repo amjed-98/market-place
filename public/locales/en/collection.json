@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Free Souls",
+    "subtitle": "Francis X Spanish Red Cross of the American Congo"
+  },
+
+  "dashboard": {
+    "one": {
+      "title": "PUBLICATION"
+    },
+    "two": {
+      "title": "TOTAL PIECES"
+    },
+    "three": {
+      "title": "STATE"
+    }
+  },
+
+  "description": "Description",
+  "works": "Works"
+}

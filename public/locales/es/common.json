@@ -1,0 +1,42 @@
+{
+  "header": {
+    "connect_wallet": "Conectar wallet",
+    "connected": "Conectado"
+  },
+
+  "active": "Activo",
+  "disabled": "desactivado",
+  "footer": {
+    "title": "Colabora con nosotros",
+    "subtext": "Si eres artista o formas parte de alguna organización sin ánimo de lucro, contacta con nosotros para crear tu propio drop.",
+    "contact_btn": "Contacta ahora",
+    "links": {
+      "home": "Home",
+      "contact": "Contacto",
+      "lazzaro": "Lázzaro"
+    },
+    "rights_reserved": "Todos los derechos reservados"
+  },
+
+  "view": "Ver",
+  "artist": "Artista",
+  "foundation": "Fundación",
+  "go_home": "Ir a la página de inicio",
+
+  "minting_nft": "Estamos preparando tu NFT",
+  "redirect_checkout": "Redirigir al formulario de pago",
+
+  "errors": {
+    "no_wallet": "No hemos encontrado la dirección de tu wallet, por favor, conéctate con MetaMask",
+    "generic": "Algo salió mal. Por favor, vuelve a intentarlo!"
+  },
+
+  "success": {
+    "stripe_payment": "El pago se ha realizado correctamente",
+    "crypto_payment": "El pago se ha realizado correctamente",
+    "congratulations": "¡Enhorabuena!",
+    "nft_minted": "Tu NFT ya está en tu wallet",
+    "transaction_code": "Puedes ver tu transacción {txHash} en polygonscan",
+    "nft_payment": "Su NFT está siendo acuñado. Será transferido a su billetera en unos momentos."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "airbnb-base",
+    "prettier",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "plugins": ["prettier", "@typescript-eslint"],
+
+  "parser": "@typescript-eslint/parser",
+
+  "rules": {
+    "prettier/prettier": ["error", {}, { "usePrettierrc": true }],
+    "import/no-extraneous-dependencies": "off",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+
+    "no-use-before-define": ["error", { "functions": false }],
+    "react-hooks/exhaustive-deps": "off"
+  }
+}

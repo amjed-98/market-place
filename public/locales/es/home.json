@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "body": {
+      "title": "NFTs solidarios",
+      "subtext": {
+        "first": "El futuro de la colaboración",
+        "second": "Adquiere tu obra de arte única mientras colaboras en proyectos sociales"
+      },
+      "discover_button": "Descubre"
+    }
+  },
+
+  "explain": {
+    "title": "¿Cómo funciona?",
+    "description": "En tres sencillos pasos podrás adquirir tu NFT mientras ayudas a cambiar el mundo",
+    "cards": {
+      "collection": {
+        "title": "Explora las colecciones",
+        "description": "Publicamos colecciones de arte a través de la colaboración de reconocidos artistas y ONGs. Explora y descubre la obra que más te guste"
+      },
+      "wallet": {
+        "title": "Configura tu wallet",
+        "description": "Tanto en crypto como en Fiat puedes comprar tu NFT y conectar tu wallet desde aquí"
+      },
+      "NFT": {
+        "title": "Adquiere tu NFT",
+        "description": "Participa en proyectos sociales de está forma tan única llevándote a cambio tu NFT"
+      }
+    }
+  },
+
+  "collections": {
+    "title": "Colecciones",
+    "description": "Colaboraciones únicas de artistas y ONGs. Arte que cambia el mundo."
+  },
+
+  "info": {
+    "title": "¿Tienes dudas? Lo que necesitas saber",
+    "description": "Colaboraciones únicas de artistas y ONGs. Arte que cambia el mundo.",
+    "cards": {
+      "one": {
+        "caption": "¿Qué es un NFT?",
+        "text": "Un NFT, o Token No Fungible, es una pieza digital única e irrepetible que representa la propiedad y autenticidad de un objeto virtual, como arte, música o incluso bienes inmuebles. Piensa en ello como una firma digital que convierte algo intangible en una pieza valiosa y coleccionable. Al comprar un NFT, estás adquiriendo un certificado de propiedad verificable en la cadena de bloques, asegurando que eres el único dueño de esa pieza en particular. ¡Es como tener una obra de arte única en el mundo digital!"
+      },
+      "two": {
+        "caption": "¿Qué tiene de especial?",
+        "text": "Lo especial de un NFT es que convierte objetos digitales en piezas únicas y valiosas. Gracias a la tecnología blockchain, garantiza autenticidad, escasez y propiedad verificable, permitiendo a los creadores y coleccionistas beneficiarse de su arte y otros objetos virtuales en un mercado seguro y global."
+      },
+      "three": {
+        "caption": "¿Qué puedo hacer con mi NFT?",
+        "text": "Con tu NFT, puedes demostrar la propiedad única de un objeto digital, coleccionarlo, exhibirlo en espacios virtuales, venderlo o intercambiarlo con otros en plataformas y mercados especializados, y disfrutar de la exclusividad y valor que aporta ser el dueño verificado de esa pieza en particular."
+      },
+      "four": {
+        "caption": "¿Qué necesito para comprarlo?",
+        "text": "Para comprar tu NFT necesitas una extensión del navegador que te permita conectarte a la red Polygon, como Metamask. Si no tienes una wallet, puedes crear una en Metamask o en cualquier otra plataforma de criptomonedas. También puedes comprar tu NFT con tarjeta de crédito o débito."
+      },
+      "five": {
+        "caption": "¿Cómo se destinan los fondos?",
+        "text": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias"
+      },
+      "six": {
+        "caption": "¿Puedo compartirlo en redes?",
+        "text": "Por supuesto. Puedes compartir tu NFT en redes sociales, en tu web o en cualquier otro espacio virtual. ¡Es tuyo!"
+      }
+    }
+  },
+
+  "subscribe": {
+    "title": "Proximamente...¡Nuevos drops!",
+    "description": "Sé el primero en enterarte de los últimos lanzamientos",
+    "input": {
+      "placeholder": "Añade tu correo",
+      "button": {
+        "subscribe": "Suscribirse",
+        "subscribed": "Suscrita"
+      }
+    }
+  }
+}

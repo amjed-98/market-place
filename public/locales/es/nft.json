@@ -1,0 +1,76 @@
+{
+  "nft_details": {
+    "top": "Colección Almas libres",
+    "title": "Nube flotando #023",
+    "nfts_left": "Nfts disponibles",
+    "artist": {
+      "title": "Artista",
+      "name": "Francis Ramirez"
+    },
+    "foundation": {
+      "title": "Fundación",
+      "name": "Arriba los corazones"
+    },
+    "numbers": {
+      "crypto": {
+        "title": "Precio crypto",
+        "value": "0.004 ETH"
+      },
+      "fiat": {
+        "title": "Precio Fiat",
+        "value": "8 EUR"
+      }
+    },
+    "buy_button": "Comprar",
+    "description": {
+      "title": "Descripción",
+      "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    "collection_available": "Esta colección estará disponible en",
+    "collection_active": "Esta colección no está activa.",
+    "nft_sold": "Este NFT ya ha sido vendido",
+
+    "details": {
+      "title": "Detalles",
+      "pairs": {
+        "one": {
+          "name": "Dimensiones",
+          "value": "3000 x 4003"
+        },
+        "two": {
+          "name": "Tamaño",
+          "value": "5 MB"
+        },
+        "three": {
+          "name": "Edición",
+          "value": "1 de 1"
+        },
+        "four": {
+          "name": "Blockchain",
+          "value": "Ethreum"
+        },
+        "five": {
+          "name": "Token",
+          "value": "ERC-721"
+        }
+      },
+      "view_link": "Ver en Polygonscan"
+    },
+    "legal_info": {
+      "title": "INFORMACIÓN LEGAL",
+      "text": "Prohibida su reproducción para uso comercial"
+    }
+  },
+
+  "other_nfts": {
+    "title": "Otras obras que te podrían interesar"
+  },
+
+  "buy_modal": {
+    "title": "Elige la moneda de pago",
+    "crypto": "Pagar con Crypto",
+    "fiat": "Pagar con tarjeta de crédito",
+    "chrome_error": "Debe usar el navegador Chrome e instalar la extensión <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>MetaMask</a> para conectar su billetera",
+    "metamask_error": "Necesita instalar la extensión <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>MetaMask</a> para conectar su billetera"
+  }
+}

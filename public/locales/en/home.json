@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "body": {
+      "title": "Solidarity NFTS",
+      "subtext": {
+        "first": "The future of collaboration",
+        "second": "Acquire your unique art while collaborating on projects social"
+      },
+      "discover_button": "Discover"
+    }
+  },
+
+  "explain": {
+    "title": "How does it work?",
+    "description": "In three easy steps you can acquire your NFT while helping to change the world",
+    "cards": {
+      "collection": {
+        "title": "Explore the collections",
+        "description": "We publish art collections through the collaboration of renowned artists and NGOs. Explore and discover the work that you like the most"
+      },
+      "wallet": {
+        "title": "Set up your wallet",
+        "description": "Both in crypto and in Fiat you can buy your NFT and connect your wallet from here"
+      },
+      "NFT": {
+        "title": "Get your NFT",
+        "description": "Participate in social projects in this unique way, taking you to change your NFT"
+      }
+    }
+  },
+
+  "collections": {
+    "title": "Collections",
+    "description": "Unique collaborations of artists and NGOs. Art that changes the world."
+  },
+
+  "info": {
+    "title": "Do you have doubts? What you need to know",
+    "description": "Unique collaborations of artists and NGOs. Art that changes the world.",
+    "cards": {
+      "one": {
+        "caption": "What is an NFT?",
+        "text": "An NFT, or Non-Fungible Token, is a unique and one-of-a-kind digital piece that represents ownership and authenticity of a virtual object, such as art, music, or even real estate. Think of it as a digital signature that turns something intangible into a valuable and collectible item. By purchasing an NFT, you are acquiring a verifiable certificate of ownership on the blockchain, ensuring that you are the sole owner of that particular piece. It's like having a one-of-a-kind piece of art in the digital world!"
+      },
+      "two": {
+        "caption": "What is special about it?",
+        "text": "What's special about an NFT is that it turns digital objects into unique and valuable pieces. Thanks to blockchain technology, it guarantees authenticity, scarcity, and verifiable ownership, allowing creators and collectors to benefit from their art and other virtual objects in a secure and global market."
+      },
+      "three": {
+        "caption": "What can I do with my NFT?",
+        "text": "With your NFT, you can prove the unique ownership of a digital object, collect it, display it in virtual spaces, sell or trade it with others on specialized platforms and markets, and enjoy the exclusivity and value that comes with being the verified owner of that particular piece."
+      },
+      "four": {
+        "caption": "What do I need to buy it?",
+        "text": "To purchase your NFT, you need a browser extension that allows you to connect to the Polygon network, such as Metamask. If you don't have a wallet, you can create one on Metamask or any other cryptocurrency platform. You can also buy your NFT with a credit or debit card."
+      },
+      "five": {
+        "caption": "How are the funds used?",
+        "text": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias"
+      },
+      "six": {
+        "caption": "Can I share it on networks?",
+        "text": "Of course. You can share your NFT on social media, on your website, or in any other virtual space. It's yours!"
+      }
+    }
+  },
+
+  "subscribe": {
+    "title": "Coming soon... New drops!",
+    "description": "Be the first to know about the latest releases",
+    "input": {
+      "placeholder": "Add your email",
+      "button": {
+        "subscribe": "Subscribe",
+        "subscribed": "Subscribed"
+      }
+    }
+  }
+}

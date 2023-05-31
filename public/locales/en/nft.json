@@ -1,0 +1,75 @@
+{
+  "nft_details": {
+    "top": "Free Souls Collection",
+    "title": "Floating Cloud #023",
+    "nfts_left": "NFTs left",
+    "artist": {
+      "title": "Artist",
+      "name": "Francis Ramirez"
+    },
+    "foundation": {
+      "title": "Foundation",
+      "name": "Arriba los corazones"
+    },
+    "numbers": {
+      "crypto": {
+        "title": "Crypto price",
+        "value": "0.004 ETH"
+      },
+      "fiat": {
+        "title": "Fiat price",
+        "value": "8 EUR"
+      }
+    },
+    "buy_button": "Buy",
+    "description": {
+      "title": "Description",
+      "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure aut itaque iste, voluptatum quae consectetur officiis magni accusantium, vel ea nostrum. Sed fuga ipsum numquam, accusamus id nobis libero animi."
+    },
+    "collection_available": "This collection will be available on",
+    "collection_active": "This collection is not active",
+    "nft_sold": "This NFT has already been sold",
+    "details": {
+      "title": "Details",
+      "pairs": {
+        "one": {
+          "name": "Dimensions",
+          "value": "3000 x 4003"
+        },
+        "two": {
+          "name": "Size",
+          "value": "5 MB"
+        },
+        "three": {
+          "name": "Edition",
+          "value": "1 of 1"
+        },
+        "four": {
+          "name": "Blockchain",
+          "value": "Ethreum"
+        },
+        "five": {
+          "name": "Token",
+          "value": "ERC-721"
+        }
+      },
+      "view_link": "View on Polygonscan"
+    },
+    "legal_info": {
+      "title": "LEGAL INFORMATION",
+      "text": "Prohibited reproduction for commercial use"
+    }
+  },
+
+  "other_nfts": {
+    "title": "Other works that might interest you"
+  },
+
+  "buy_modal": {
+    "title": "Choose the payment currency",
+    "crypto": "Pay with Crypto",
+    "fiat": "Pay with credit card",
+    "chrome_error": "You need to use Chrome browser and install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>MetaMask</a> extension in order to connect your wallet",
+    "metamask_error": "You need to install <a href='https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn'>MetaMask</a> extension in order to connect your wallet"
+  }
+}

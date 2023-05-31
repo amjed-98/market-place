@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Almas libres",
+    "subtitle": "Francis X Cruz Roja Española Del Congo Amerciano"
+  },
+
+  "dashboard": {
+    "one": {
+      "title": "PUBLICACIÓN"
+    },
+    "two": {
+      "title": "PIEZAS TOTALES"
+    },
+    "three": {
+      "title": "ESTADO"
+    }
+  },
+
+  "description": "Descripción",
+  "works": "Obras"
+}
